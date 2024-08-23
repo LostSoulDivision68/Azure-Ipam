@@ -12,5 +12,11 @@
       "default": true,
       "MD024": { "siblings_only": true },
       "MD033": false
-  }
+  },
+  "azureFunctions.deploySubpath": "engine",
+  "azureFunctions.scmDoBuildDuringDeployment": true,
+  "azureFunctions.projectLanguage": "Python",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.projectLanguageModel": 2
 }
